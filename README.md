@@ -28,6 +28,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/embering/embering/output/snake.svg" alt="Snake animation" />
-
 ###
